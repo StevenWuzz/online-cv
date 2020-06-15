@@ -59,7 +59,7 @@ sidebar:
       #Second paragraph if required.
 education:
     - degree: Honours Bachelor of Science in Computer Science and Statistics
-      university: University of Toronto
+      university: University of Toronto, GPA: 3.94 / 4.0
       time: 2019 - 2023
       details: |
         Specialist in Computer Science and Major in Statisctics
@@ -81,33 +81,37 @@ experiences:
       time: May 2020 - Present
       company: Computational Social Science Lab, University of Toronto
       details: |
-        Project's Name: Predicting Human Error By Analyzing Billions of Chess Moves.
-        Supervisor's Name: Dr. Ashton Anderson
-
-        In this project, I will have to apply state of the art machine learning methods to billions of human chess moves to understand how, when, and why people make mistakes. I will first train simple models to establish baselines, then focus on AlphaZero-inspired deep learning methods that treat the chessboard as an image to achieve strong performance on this interesting task.
-          
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+          - Project Name: Predicting Human Error By Analyzing Billions of Chess Moves
+          - Apply state of the art machine learning methods to billions of human chess moves to understand how, when, and why people make mistakes.
+          - Train simple models to establish baselines, then focus on AlphaZero-inspired deep learning methods that treat the chessboard as an image to achieve strong performance on this interesting task.
+          - Supervised by Dr. Ashton Anderson
+    - role: Software Engineer (Machine Learning)
+      time: Sept 2019 - Mar 2020
+      company: Toronto Decision Neuroscience Lab, University of Toronto
+       details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+          - Write new software for analyzing behavioral and neuroimaging data captured from subjects performing decision making tasks, which require application of both statistical models and machine learning techniques, as well as writing user-friendly interface for performing analyses
+          - Supervised by Dr. Cendri Hutcherson
+    #- role: UI Developer
+      #time: 2012 - 2014
+      #company: Amazon, London
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+          #- Bullet point
+          #- Bullet point
 projects:
     title: Projects
     intro: >
