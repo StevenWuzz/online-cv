@@ -4,7 +4,7 @@
 
 sidebar:
     #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Steven Hans Limantoro
@@ -59,11 +59,15 @@ sidebar:
       #Second paragraph if required.
 education:
     - degree: Honours Bachelor of Science in Computer Science and Statistics
-      university: University of Toronto, GPA: 3.94 / 4.0
+      university: University of Toronto
       time: 2019 - 2023
       details: |
-        Specialist in Computer Science and Major in Statisctics
-          - GPA: 3.94 / 4.0
+        Specialist in Computer Science and Statistics
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #pretium quis, sem.
+          - GPA : 3.94 / 4.0
           - Focusing on Artificial Intelligence
     #- degree: BSc in Applied Mathematics
       #university: Bristol University
