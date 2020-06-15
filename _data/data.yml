@@ -12,8 +12,8 @@ sidebar:
     avatar: steven_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: steven.limantoro@mail.utoronto.ca or stevenhl@cs.toronto.edu
-    phone: +1 (437) 970 4602
+    email: steven.limantoro@mail.utoronto.ca
+    phone: +1 437 970 4602
     website: #blog.webjeda.com #do not add http://
     linkedin: stevenlimantoro
     github: stevenwuzz
@@ -48,54 +48,45 @@ sidebar:
       #- item: Cooking
         #link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+#career-profile:
+    #title: Career Profile
+    #summary: |
+      #Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      #adipiscing elit. You can [download this free resume/CV template here]().
+      #Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      #penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      #Donec quam felis, ultricies nec, pellentesque eu.
+      #Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Honours Bachelor of Science in Computer Science and Statistics
+      university: University of Toronto
+      time: 2019 - 2023
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Specialist in Computer Science and Major in Statistics.
+          - GPA: 3.94 / 4.0
+          - Focusing in Artificial Intelligence
+    #- degree: BSc in Applied Mathematics
+      #university: Bristol University
+      #time: 2007 - 2011
+      #details: |
+        #Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #pretium quis, sem.
+          #- Bullet point
+          #- Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Undergraduate Student Researcher
+      time: May 2020 - Present
+      company: Computational Social Science Lab, University of Toronto
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Project's Name: Predicting Human Error By Analyzing Billions of Chess Moves.
+        Supervisor's Name: Dr. Ashton Anderson
+
+        In this project, I will have to apply state of the art machine learning methods to billions of human chess moves to understand how, when, and why people make mistakes. I will first train simple models to establish baselines, then focus on AlphaZero-inspired deep learning methods that treat the chessboard as an image to achieve strong performance on this interesting task.
+          #- Bullet point
+          #- Bullet point
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
