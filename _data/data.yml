@@ -94,17 +94,17 @@ experiences:
           - Apply state of the art machine learning methods to billions of human chess moves to understand how, when, and why people make mistakes.
           - Train simple models to establish baselines, then focus on AlphaZero-inspired deep learning methods that treat the chessboard as an image to achieve strong performance on this interesting task.
           - Supervised by Dr. Ashton Anderson
-    - role: Software Engineer (Machine Learning)
-      time: Sept 2019 - Mar 2020
-      company: Toronto Decision Neuroscience Lab, University of Toronto
-       details: |
+   # - role: Software Engineer (Machine Learning)
+      #time: Sept 2019 - Mar 2020
+      #company: Toronto Decision Neuroscience Lab, University of Toronto
+       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         #Cum sociis natoque penatibus et magnis dis parturient montes,
         #nascetur ridiculus mus. Donec quam felis, ultricies nec,
         #pellentesque eu, pretium quis, sem.
-          - Write new software for analyzing behavioral and neuroimaging data captured from subjects performing decision making tasks, which require application of both statistical models and machine learning techniques, as well as writing user-friendly interface for performing analyses
-          - Supervised by Dr. Cendri Hutcherson
+          #- Write new software for analyzing behavioral and neuroimaging data captured from subjects performing decision making tasks, which require application of both statistical models and machine learning techniques, as well as writing user-friendly interface for performing analyses
+          #- Supervised by Dr. Cendri Hutcherson
     #- role: UI Developer
       #time: 2012 - 2014
       #company: Amazon, London
